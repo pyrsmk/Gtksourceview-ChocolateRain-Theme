@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
- 2009 tm2gtksw2 tool (by Alexandre da Silva)
  2011 Aurélien Delogu (dev@dreamysource.fr)
+ 2009 tm2gtksw2 tool (by Alexandre da Silva)
 
  This file was generated from a textmate theme named Choco
- with tm2gtksw2 tool and forked to have improved rendering.
+ with tm2gtksw2 tool and was forked to improve rendering.
 
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
@@ -35,9 +35,8 @@
     <style name="text" foreground="#c3be98" background="#1a0f0b"/>
     <style name="selection" foreground="#c3be98" background="#646467"/>
     <style name="search-match" foreground="#c3be98" background="#646467"/>
-    <!-- Currently useless with Scribes
-        <style name="bracket-match" foreground="#f7f337" bold="true"/>
-        <style name="bracket-mismatch" foreground="#f73c37" bold="true"/> -->
+    <style name="bracket-match" foreground="#f7f337" bold="true"/>
+    <style name="bracket-mismatch" foreground="#f73c37" bold="true"/>
     
     <style name="def:base-n-integer" foreground="#da5659"/>
     <style name="def:boolean" foreground="#da5659"/>
